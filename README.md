@@ -1,8 +1,8 @@
-# €”õ
-- ‰º‹LŠÂ‹«•Ï”‚É’l‚ðÝ’è‚·‚éB
+# æº–å‚™
+- ä¸‹è¨˜ç’°å¢ƒå¤‰æ•°ã«å€¤ã‚’è¨­å®šã™ã‚‹ã€‚  
   FMWW_SIGN_IN_URL
-- Windows Script Encoder‚ðƒCƒ“ƒXƒg[ƒ‹‚·‚éB
+- Windows Script Encoderã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã™ã‚‹ã€‚
 
-# Žg—p•û–@
-1. run.bat‚ðŽÀs‚·‚éB
-2. ‰æ–Ê‚É]‚Á‚ÄAƒTƒCƒ“ƒCƒ“î•ñ‚ð“ü—Í‚·‚éB
+# ä½¿ç”¨æ–¹æ³•
+1. run.batã‚’å®Ÿè¡Œã™ã‚‹ã€‚
+2. ç”»é¢ã«å¾“ã£ã¦ã€ã‚µã‚¤ãƒ³ã‚¤ãƒ³æƒ…å ±ã‚’å…¥åŠ›ã™ã‚‹ã€‚
